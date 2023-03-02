@@ -1,4 +1,4 @@
-## Portfolio Website built in **HTML , CSS ( Animation )** 
+<h2 align="center"> Portfolio Website built in HTML , CSS ( Animation ) </h2>
 ## This portfolio project built to showcase my Technical SKills & Web Design Skills
 # Technologies Used
 <ul> 
