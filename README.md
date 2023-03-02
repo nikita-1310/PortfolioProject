@@ -1,6 +1,6 @@
 <h2 align="center"> Portfolio Website built in HTML , CSS ( Animation ) </h2>
-## This portfolio project built to showcase my Technical SKills & Web Design Skills
-# Technologies Used
+<h2>This portfolio project built to showcase my Technical SKills & Web Design Skills</h2>
+<h1> Technologies Used</h1>
 <ul> 
 <li>HTML</li>
 <li>CSS</li>
