@@ -51,3 +51,7 @@
 <h3>In footer section I created social icons which are Github, LinkedIn, Twitter and Youtube. When we click on these icons you will be redirect on the particular accounts. </h3>
 
 ![This is an Image](/images/foot.jpeg)
+
+<h1 align="center">Responsive Layout</h1>
+
+![This is an Image](/images/res.jpeg)
