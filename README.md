@@ -23,7 +23,7 @@
 ![This is an Image](/images/nav.jpeg)
 
 <h1 align="center"> Home Section</h1>
-<h3>In Home section i have used image on background, there is my name which is animated and button with hire me whenever we hover on the button , button background color would be transparent and border color would be changed.</h3>
+<h3>In Home section I have used image on background, there is my name which is animated and button with hire me whenever we hover on the button , button background color would be transparent and border color would be changed.</h3>
 
 ![This is an Image](/images/project1.jpeg)
 
